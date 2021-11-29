@@ -1,10 +1,10 @@
 # Chatterbot with Tinker GUI and Flask Web Deployment
 
 ## Initial Setup:
-pip install chatterbot
-pip install chatterbot-corpus
-pip install Flask
-pip install tk
+pip install chatterbot <br>
+pip install chatterbot-corpus<br>
+pip install Flask<br>
+pip install tk<br>
 
 or
 
