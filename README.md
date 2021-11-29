@@ -16,10 +16,10 @@ This is a simple chatterbot implementation.  We use the chatterbot.corpus.englis
 
 You may redo the training using different corpus. See [ChatterBot documentation](https://chatterbot.readthedocs.io/en/stable/setup.html) for detail.
 
-## tkinter GUI
+## Tkinter GUI
 <img src='/img/Tkinter.png' style='width: 300px'/>
 
-Python code for the tkinter GUI was based on [this code](https://github.com/python-engineer/python-fun/blob/master/chatbot-gui/app.py)
+Tkinter is the standard GUI library for Python. Python code for the Tkinter GUI was based on [this code](https://github.com/python-engineer/python-fun/blob/master/chatbot-gui/app.py)
 
 ## Web deployment with Flask and Javascript
 <img src='/img/ChatterBot.png' style='width: 300px'/>
